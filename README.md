@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-byte123
+- 👋 Hi, My name is Justin Gartrell
 - 👀 I’m interested in Building computers and going to the Gym
 - 🌱 I’m currently learning coding in in java script, Html, Css
 - 💞️ I’m looking to collaborate on Various Companies specifically Nivida
